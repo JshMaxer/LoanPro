@@ -41,15 +41,15 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txtTerm = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.ContextMenuStrip = new Guna.UI2.WinForms.Guna2ContextMenuStrip();
+            this.themeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cmsLight = new System.Windows.Forms.ToolStripMenuItem();
+            this.cmsDark = new System.Windows.Forms.ToolStripMenuItem();
             this.txtMonthly = new Guna.UI2.WinForms.Guna2TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.DragControl2 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.DragControl1 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.Step = new System.Windows.Forms.Timer(this.components);
-            this.ContextMenuStrip = new Guna.UI2.WinForms.Guna2ContextMenuStrip();
-            this.themeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.cmsLight = new System.Windows.Forms.ToolStripMenuItem();
-            this.cmsDark = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.ContextMenuStrip.SuspendLayout();
             this.SuspendLayout();
@@ -140,6 +140,7 @@
             this.txtAmount.Size = new System.Drawing.Size(180, 39);
             this.txtAmount.TabIndex = 1;
             this.txtAmount.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtAmount.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtAmount_KeyPress);
             // 
             // label2
             // 
@@ -178,6 +179,7 @@
             this.txtInterest.Size = new System.Drawing.Size(180, 39);
             this.txtInterest.TabIndex = 2;
             this.txtInterest.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtInterest.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtAmount_KeyPress);
             // 
             // label3
             // 
@@ -216,6 +218,7 @@
             this.txtDown.Size = new System.Drawing.Size(180, 39);
             this.txtDown.TabIndex = 4;
             this.txtDown.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtDown.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtAmount_KeyPress);
             // 
             // label4
             // 
@@ -254,6 +257,7 @@
             this.txtTerm.Size = new System.Drawing.Size(180, 39);
             this.txtTerm.TabIndex = 3;
             this.txtTerm.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtTerm.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtAmount_KeyPress);
             // 
             // guna2PictureBox1
             // 
@@ -266,6 +270,46 @@
             this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.guna2PictureBox1.TabIndex = 17;
             this.guna2PictureBox1.TabStop = false;
+            // 
+            // ContextMenuStrip
+            // 
+            this.ContextMenuStrip.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ContextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.themeToolStripMenuItem});
+            this.ContextMenuStrip.Name = "ContextMenuStrip";
+            this.ContextMenuStrip.RenderStyle.ArrowColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
+            this.ContextMenuStrip.RenderStyle.BorderColor = System.Drawing.Color.Gainsboro;
+            this.ContextMenuStrip.RenderStyle.ColorTable = null;
+            this.ContextMenuStrip.RenderStyle.RoundedEdges = true;
+            this.ContextMenuStrip.RenderStyle.SelectionArrowColor = System.Drawing.Color.White;
+            this.ContextMenuStrip.RenderStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            this.ContextMenuStrip.RenderStyle.SelectionForeColor = System.Drawing.Color.White;
+            this.ContextMenuStrip.RenderStyle.SeparatorColor = System.Drawing.Color.Gainsboro;
+            this.ContextMenuStrip.RenderStyle.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
+            this.ContextMenuStrip.Size = new System.Drawing.Size(128, 28);
+            // 
+            // themeToolStripMenuItem
+            // 
+            this.themeToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.cmsLight,
+            this.cmsDark});
+            this.themeToolStripMenuItem.Name = "themeToolStripMenuItem";
+            this.themeToolStripMenuItem.Size = new System.Drawing.Size(127, 24);
+            this.themeToolStripMenuItem.Text = "Theme";
+            // 
+            // cmsLight
+            // 
+            this.cmsLight.Name = "cmsLight";
+            this.cmsLight.Size = new System.Drawing.Size(114, 24);
+            this.cmsLight.Text = "Light";
+            this.cmsLight.Click += new System.EventHandler(this.cmsLight_Click);
+            // 
+            // cmsDark
+            // 
+            this.cmsDark.Name = "cmsDark";
+            this.cmsDark.Size = new System.Drawing.Size(114, 24);
+            this.cmsDark.Text = "Dark";
+            this.cmsDark.Click += new System.EventHandler(this.cmsDark_Click);
             // 
             // txtMonthly
             // 
@@ -294,6 +338,7 @@
             this.txtMonthly.TabIndex = 18;
             this.txtMonthly.TabStop = false;
             this.txtMonthly.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtMonthly.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtAmount_KeyPress);
             // 
             // label5
             // 
@@ -323,53 +368,12 @@
             this.Step.Enabled = true;
             this.Step.Tick += new System.EventHandler(this.Step_Tick);
             // 
-            // ContextMenuStrip
-            // 
-            this.ContextMenuStrip.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ContextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.themeToolStripMenuItem});
-            this.ContextMenuStrip.Name = "ContextMenuStrip";
-            this.ContextMenuStrip.RenderStyle.ArrowColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
-            this.ContextMenuStrip.RenderStyle.BorderColor = System.Drawing.Color.Gainsboro;
-            this.ContextMenuStrip.RenderStyle.ColorTable = null;
-            this.ContextMenuStrip.RenderStyle.RoundedEdges = true;
-            this.ContextMenuStrip.RenderStyle.SelectionArrowColor = System.Drawing.Color.White;
-            this.ContextMenuStrip.RenderStyle.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            this.ContextMenuStrip.RenderStyle.SelectionForeColor = System.Drawing.Color.White;
-            this.ContextMenuStrip.RenderStyle.SeparatorColor = System.Drawing.Color.Gainsboro;
-            this.ContextMenuStrip.RenderStyle.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
-            this.ContextMenuStrip.Size = new System.Drawing.Size(181, 50);
-            // 
-            // themeToolStripMenuItem
-            // 
-            this.themeToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.cmsLight,
-            this.cmsDark});
-            this.themeToolStripMenuItem.Name = "themeToolStripMenuItem";
-            this.themeToolStripMenuItem.Size = new System.Drawing.Size(180, 24);
-            this.themeToolStripMenuItem.Text = "Theme";
-            // 
-            // cmsLight
-            // 
-            this.cmsLight.Name = "cmsLight";
-            this.cmsLight.Size = new System.Drawing.Size(180, 24);
-            this.cmsLight.Text = "Light";
-            this.cmsLight.Click += new System.EventHandler(this.cmsLight_Click);
-            // 
-            // cmsDark
-            // 
-            this.cmsDark.Name = "cmsDark";
-            this.cmsDark.Size = new System.Drawing.Size(180, 24);
-            this.cmsDark.Text = "Dark";
-            this.cmsDark.Click += new System.EventHandler(this.cmsDark_Click);
-            // 
             // AdvanceForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(416, 592);
-            this.ContextMenuStrip = this.ContextMenuStrip;
             this.Controls.Add(this.txtMonthly);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label3);
