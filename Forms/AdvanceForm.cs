@@ -72,10 +72,20 @@ namespace LoanCalculator
                 label5.ForeColor = Color.FromArgb(255, 255, 255);
 
                 txtAmount.FillColor = Color.FromArgb(64, 64, 64);
+                txtAmount.ForeColor = Color.FromArgb(255, 255, 255);
+
                 txtDown.FillColor = Color.FromArgb(64, 64, 64);
+                txtDown.ForeColor = Color.FromArgb(255, 255, 255);
+
                 txtInterest.FillColor = Color.FromArgb(64, 64, 64);
+                txtInterest.ForeColor = Color.FromArgb(255, 255, 255);
+
                 txtMonthly.FillColor = Color.FromArgb(64, 64, 64);
+                txtMonthly.ForeColor = Color.FromArgb(255, 255, 255);
+
                 txtTerm.FillColor = Color.FromArgb(64, 64, 64);
+                txtTerm.ForeColor = Color.FromArgb(255, 255, 255);
+
             }
             else
             {
@@ -88,10 +98,20 @@ namespace LoanCalculator
                 label5.ForeColor = Color.FromArgb(8, 8, 8);
 
                 txtAmount.FillColor = Color.FromArgb(255, 255, 255);
+                txtAmount.ForeColor = Color.FromArgb(8, 8, 8);
+
                 txtDown.FillColor = Color.FromArgb(255, 255, 255);
+                txtDown.ForeColor = Color.FromArgb(8, 8, 8);
+
                 txtInterest.FillColor = Color.FromArgb(255, 255, 255);
+                txtInterest.ForeColor = Color.FromArgb(8, 8, 8);
+
                 txtMonthly.FillColor = Color.FromArgb(255, 255, 255);
+                txtMonthly.ForeColor = Color.FromArgb(8, 8, 8);
+
                 txtTerm.FillColor = Color.FromArgb(255, 255, 255);
+                txtTerm.ForeColor = Color.FromArgb(8, 8, 8);
+
             }
         }
 
