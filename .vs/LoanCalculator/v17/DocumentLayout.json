@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\joshu\\Documents\\GitHub\\LoanPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81C71B40-E17B-4A26-86E2-1869871A3CCA}|Solution Items{81C71B40-E17B-4A26-86E2-1869871A3CCA}|D:\\joshu\\Documents\\GitHub\\LoanPro\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{81C71B40-E17B-4A26-86E2-1869871A3CCA}|Solution Items{81C71B40-E17B-4A26-86E2-1869871A3CCA}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -38,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
@@ -68,51 +72,37 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SimpleForm.cs",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\SimpleForm.cs",
-              "RelativeDocumentMoniker": "Forms\\SimpleForm.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\SimpleForm.cs",
-              "RelativeToolTip": "Forms\\SimpleForm.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAADwv2sAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:53:35.475Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-09-04T16:21:34.191Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdvanceForm.cs",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs",
-              "RelativeDocumentMoniker": "Forms\\AdvanceForm.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs",
-              "RelativeToolTip": "Forms\\AdvanceForm.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAADwv4IAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "History.cs",
+              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\History.cs",
+              "RelativeDocumentMoniker": "Forms\\History.cs",
+              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\History.cs*",
+              "RelativeToolTip": "Forms\\History.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAA6wDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:57:04.804Z"
+              "WhenOpened": "2024-09-04T16:40:30.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\History.cs",
+              "RelativeDocumentMoniker": "Forms\\History.cs",
+              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\History.cs [Design]*",
+              "RelativeToolTip": "Forms\\History.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:33:14.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SimpleForm.cs [Design]",
               "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\SimpleForm.cs",
               "RelativeDocumentMoniker": "Forms\\SimpleForm.cs",
@@ -124,6 +114,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleForm.cs",
+              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\SimpleForm.cs",
+              "RelativeDocumentMoniker": "Forms\\SimpleForm.cs",
+              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\SimpleForm.cs",
+              "RelativeToolTip": "Forms\\SimpleForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:53:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AdvanceForm.cs [Design]",
               "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs",
@@ -131,7 +134,21 @@
               "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs [Design]",
               "RelativeToolTip": "Forms\\AdvanceForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:56:09.751Z"
+              "WhenOpened": "2024-09-04T15:56:09.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdvanceForm.cs",
+              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdvanceForm.cs",
+              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs",
+              "RelativeToolTip": "Forms\\AdvanceForm.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:57:04.804Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -113,6 +113,7 @@
             this.txtTerm.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtTerm.Location = new System.Drawing.Point(52, 294);
             this.txtTerm.Margin = new System.Windows.Forms.Padding(7);
+            this.txtTerm.MaxLength = 2;
             this.txtTerm.Name = "txtTerm";
             this.txtTerm.PasswordChar = '\0';
             this.txtTerm.PlaceholderText = "";
