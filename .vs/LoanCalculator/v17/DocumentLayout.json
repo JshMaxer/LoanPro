@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\joshu\\Documents\\GitHub\\LoanPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\simpleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\advanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
@@ -65,90 +49,40 @@
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
               "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs",
               "RelativeToolTip": "Forms\\MainForm.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAADwv04AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswE0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T10:25:21.606Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Splash.cs",
+              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs",
+              "RelativeDocumentMoniker": "Forms\\Splash.cs",
+              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs",
+              "RelativeToolTip": "Forms\\Splash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:23:39.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "History.cs",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\History.cs",
-              "RelativeDocumentMoniker": "Forms\\History.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\History.cs*",
-              "RelativeToolTip": "Forms\\History.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAA6wDgAAAAAAAAAAAAAAA==",
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs",
+              "RelativeDocumentMoniker": "Forms\\Splash.cs",
+              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs [Design]",
+              "RelativeToolTip": "Forms\\Splash.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T16:40:30.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "History.cs [Design]",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\History.cs",
-              "RelativeDocumentMoniker": "Forms\\History.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\History.cs [Design]*",
-              "RelativeToolTip": "Forms\\History.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T16:33:14.75Z",
+              "WhenOpened": "2024-09-05T11:23:36.026Z",
               "EditorCaption": " [Design]"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimpleForm.cs [Design]",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\SimpleForm.cs",
-              "RelativeDocumentMoniker": "Forms\\SimpleForm.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\SimpleForm.cs [Design]",
-              "RelativeToolTip": "Forms\\SimpleForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:53:15.676Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SimpleForm.cs",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\SimpleForm.cs",
-              "RelativeDocumentMoniker": "Forms\\SimpleForm.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\SimpleForm.cs",
-              "RelativeToolTip": "Forms\\SimpleForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:53:35.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdvanceForm.cs [Design]",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs",
-              "RelativeDocumentMoniker": "Forms\\AdvanceForm.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs [Design]",
-              "RelativeToolTip": "Forms\\AdvanceForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:56:09.751Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdvanceForm.cs",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs",
-              "RelativeDocumentMoniker": "Forms\\AdvanceForm.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\AdvanceForm.cs",
-              "RelativeToolTip": "Forms\\AdvanceForm.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAiwIIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:57:04.804Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

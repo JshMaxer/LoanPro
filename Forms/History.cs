@@ -44,11 +44,25 @@ namespace LoanCalculator.Forms
             {
                 this.BackColor = Color.FromArgb(33, 33, 33);
                 ViewHistory.BackgroundColor = Color.FromArgb(33, 33, 33);
+
+                label1.ForeColor = Color.FromArgb(255, 255, 255);
+                label2.ForeColor = Color.FromArgb(255, 255, 255);
+                label3.ForeColor = Color.FromArgb(255, 255, 255);
+                label4.ForeColor = Color.FromArgb(255, 255, 255);
+                label5.ForeColor = Color.FromArgb(255, 255, 255);
+                label6.ForeColor = Color.FromArgb(255, 255, 255);
             }
             else
             {
                 this.BackColor = Color.FromArgb(255, 255, 255);
                 ViewHistory.BackgroundColor = Color.FromArgb(255, 255, 255);
+
+                label1.ForeColor = Color.FromArgb(8, 8, 8);
+                label2.ForeColor = Color.FromArgb(8, 8, 8);
+                label3.ForeColor = Color.FromArgb(8, 8, 8);
+                label4.ForeColor = Color.FromArgb(8, 8, 8);
+                label5.ForeColor = Color.FromArgb(8, 8, 8);
+                label6.ForeColor = Color.FromArgb(8, 8, 8);
             }
         }
 

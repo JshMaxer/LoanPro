@@ -145,3 +145,4 @@ D:\joshu\Documents\GitHub\LoanPro\obj\Debug\LoanCalculator.csproj.CoreCompileInp
 D:\joshu\Documents\GitHub\LoanPro\obj\Debug\LoanCalc.6AD39CAF.Up2Date
 D:\joshu\Documents\GitHub\LoanPro\obj\Debug\LoanCalculator.exe
 D:\joshu\Documents\GitHub\LoanPro\obj\Debug\LoanCalculator.pdb
+D:\joshu\Documents\GitHub\LoanPro\obj\Debug\LoanCalculator.Forms.Splash.resources

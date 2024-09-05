@@ -29,7 +29,7 @@ namespace LoanCalculator
 
             SimpleForm sf = new SimpleForm();
             sf.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void btnAdvanceLoan_Click(object sender, EventArgs e)
@@ -38,7 +38,7 @@ namespace LoanCalculator
 
             AdvanceForm af = new AdvanceForm();
             af.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void btnClose_Click(object sender, EventArgs e)
@@ -89,7 +89,7 @@ namespace LoanCalculator
         {
             History his = new History();
             his.Show();
-            this.Hide();
+            this.Close();
         }
     }
 }
