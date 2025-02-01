@@ -10,13 +10,14 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 using System.Windows.Forms;
 using System.Xml.Linq;
 using System.Data;
+using System.IO;
 
 namespace LoanCalculator.Scripts
 {
     public class DataSettings
     {
         //Database
-        public static string ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\joshu\\source\\repos\\LoanCalculator\\History.mdf;Integrated Security=True";
+        public static string ConnectionString = $"Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename={Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "History.mdf")};Integrated Security=True";
 
         public static SqlConnection connection = new SqlConnection(ConnectionString);
 
@@ -66,7 +67,7 @@ namespace LoanCalculator.Scripts
                 ViewHistory.DataSource = dataTable;
 
             }
-            catch (MySqlException ex)
+            catch (SqlException ex)
             {
                 MessageBox.Show("Error: " + ex.Message);
             }

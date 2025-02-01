@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\joshu\\Documents\\GitHub\\LoanPro\\",
+  "WorkspaceRootPath": "D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshua cambal\\documents\\github\\loanpro\\scripts\\datasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:scripts\\datasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshua cambal\\documents\\github\\loanpro\\forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|d:\\joshu\\documents\\github\\loanpro\\forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\joshu\\Documents\\GitHub\\LoanPro\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2062ECF3-7988-45B6-9E9C-86E5E0FD5CB8}|LoanCalculator.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,63 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs",
+              "DocumentMoniker": "D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
               "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs [Design]",
-              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T09:31:07.852Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs",
+              "DocumentMoniker": "D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\Forms\\MainForm.cs",
               "RelativeToolTip": "Forms\\MainForm.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAswE0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T10:25:21.606Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataSettings.cs",
+              "DocumentMoniker": "D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\Scripts\\DataSettings.cs",
+              "RelativeDocumentMoniker": "Scripts\\DataSettings.cs",
+              "ToolTip": "D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\Scripts\\DataSettings.cs",
+              "RelativeToolTip": "Scripts\\DataSettings.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:08:51.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Splash.cs",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs",
+              "DocumentMoniker": "D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs",
               "RelativeDocumentMoniker": "Forms\\Splash.cs",
-              "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs",
+              "ToolTip": "D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs",
               "RelativeToolTip": "Forms\\Splash.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T11:23:39.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Splash.cs [Design]",
-              "DocumentMoniker": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs",
+              "DocumentMoniker": "D:\\Joshua Cambal\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs",
               "RelativeDocumentMoniker": "Forms\\Splash.cs",
               "ToolTip": "D:\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs [Design]",
-              "RelativeToolTip": "Forms\\Splash.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\joshu\\Documents\\GitHub\\LoanPro\\Forms\\Splash.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T11:23:36.026Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-09-05T11:23:36.026Z"
             }
           ]
         }
